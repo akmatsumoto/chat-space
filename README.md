@@ -11,7 +11,7 @@
 - has_many :members
 
 
-### groups table
+## groups table
 
 |Columns|Type|Options|
 |-------|----|-------|
