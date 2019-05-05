@@ -21,7 +21,7 @@
 - has_many :users
 
 
-### messages table
+## messages table
 
 |Columns|Type|Options|
 |-------|----|-------|
