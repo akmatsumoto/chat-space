@@ -27,7 +27,7 @@
 
 |Columns|Type|Options|
 |-------|----|-------|
-|body|text|null: false|
+|body|text||
 |image|string||
 |user_id|references|null: false, foreign_key: true|
 |group_id|references|null: false, foreign_key: true|
